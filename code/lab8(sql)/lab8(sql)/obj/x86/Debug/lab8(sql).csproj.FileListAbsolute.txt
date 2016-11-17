@@ -1,0 +1,8 @@
+F:\work\homyak\code\lab8(sql)\lab8(sql)\bin\Debug\lab8(sql).exe
+F:\work\homyak\code\lab8(sql)\lab8(sql)\bin\Debug\lab8(sql).pdb
+F:\work\homyak\code\lab8(sql)\lab8(sql)\obj\x86\Debug\lab8_sql_.Properties.Resources.resources
+F:\work\homyak\code\lab8(sql)\lab8(sql)\obj\x86\Debug\lab8(sql).csproj.GenerateResource.Cache
+F:\work\homyak\code\lab8(sql)\lab8(sql)\obj\x86\Debug\lab8(sql).exe
+F:\work\homyak\code\lab8(sql)\lab8(sql)\obj\x86\Debug\lab8(sql).pdb
+F:\work\homyak\code\lab8(sql)\lab8(sql)\obj\x86\Debug\lab8(sql).csprojResolveAssemblyReference.cache
+F:\work\homyak\code\lab8(sql)\lab8(sql)\obj\x86\Debug\lab8_sql_.Form1.resources
