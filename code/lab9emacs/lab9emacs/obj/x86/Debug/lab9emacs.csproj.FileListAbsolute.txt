@@ -1,0 +1,9 @@
+F:\work\homyak\code\lab9emacs\lab9emacs\bin\Debug\lab9emacs.exe
+F:\work\homyak\code\lab9emacs\lab9emacs\bin\Debug\lab9emacs.pdb
+F:\work\homyak\code\lab9emacs\lab9emacs\obj\x86\Debug\lab9emacs.csprojResolveAssemblyReference.cache
+F:\work\homyak\code\lab9emacs\lab9emacs\obj\x86\Debug\lab9emacs.Form1.resources
+F:\work\homyak\code\lab9emacs\lab9emacs\obj\x86\Debug\lab9emacs.Properties.Resources.resources
+F:\work\homyak\code\lab9emacs\lab9emacs\obj\x86\Debug\lab9emacs.csproj.GenerateResource.Cache
+F:\work\homyak\code\lab9emacs\lab9emacs\obj\x86\Debug\lab9emacs.exe
+F:\work\homyak\code\lab9emacs\lab9emacs\obj\x86\Debug\lab9emacs.pdb
+F:\work\homyak\code\lab9emacs\lab9emacs\obj\x86\Debug\lab9emacs.Form2.resources
