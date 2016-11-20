@@ -1,0 +1,7 @@
+F:\work\homyak\code\lab10(octave)\lab10(octave)\bin\Debug\lab10(octave).exe
+F:\work\homyak\code\lab10(octave)\lab10(octave)\bin\Debug\lab10(octave).pdb
+F:\work\homyak\code\lab10(octave)\lab10(octave)\obj\x86\Debug\lab10_octave_.Form1.resources
+F:\work\homyak\code\lab10(octave)\lab10(octave)\obj\x86\Debug\lab10_octave_.Properties.Resources.resources
+F:\work\homyak\code\lab10(octave)\lab10(octave)\obj\x86\Debug\lab10(octave).csproj.GenerateResource.Cache
+F:\work\homyak\code\lab10(octave)\lab10(octave)\obj\x86\Debug\lab10(octave).exe
+F:\work\homyak\code\lab10(octave)\lab10(octave)\obj\x86\Debug\lab10(octave).pdb
